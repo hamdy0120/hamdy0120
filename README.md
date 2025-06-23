@@ -4,7 +4,7 @@
 
 <br><br>
 
-### 👋 Hello, I'm **Hamdy Abdelwahid**
+### 👋 Hello, I'm **Hamdy Abd Elwahed**
 🎯 A passionate **GIS Developer** who loves spatial data, mapping, and building location-based solutions using modern tools.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hamdy-gis&style=flat&color=orange&label=PROFILE+VIEWS)
