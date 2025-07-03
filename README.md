@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%" />
-
-<br><br>
 
 ### 👋 Hello, I'm **Hamdy Abd Elwahed**
 🎯 A passionate **GIS Developer** who loves spatial data, mapping, and building location-based solutions using modern tools.
